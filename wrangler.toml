@@ -1,0 +1,6 @@
+name = "penguinmod-editor"
+compatibility_date = "2024-04-20"
+pages_build_output_dir = "dist"
+
+[build]
+command = "npm install && npm run build"
